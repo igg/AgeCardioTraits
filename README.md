@@ -1,2 +1,2 @@
 # AgeCardioTraits
-Age-related cardiovascular traits
+Machine learning to find and characterize age-related cardiovascular traits
