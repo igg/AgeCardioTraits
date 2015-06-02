@@ -10,4 +10,4 @@ To startup the notebook:
     ipython notebook
 
 ## Dependencies:
-This projects depends on `python`, `numpy`, `scipy`, `matplotlib`, and `scikit-learn`.
+This projects depends on `python`, `ipython`, `numpy`, `scipy`, `matplotlib`, and `scikit-learn`.
